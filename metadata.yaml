@@ -5,12 +5,17 @@ contributor:
     agent_name: Carmichael, Montgomery
     gutenberg_agent_id: '53604'
     url: http://www.gutenberg.org/2009/agents/53604
+covers:
+- cover_type: archival
+  image_path: 66025-h/images/cover.jpg
 creator:
   author:
     agent_name: Parma, Giovanni da
     gutenberg_agent_id: '53603'
     url: http://www.gutenberg.org/2009/agents/53603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66025#The-Lady-Poverty-A-XIII-Century-Allegory
 gutenberg_issued: '2021-08-09'
 gutenberg_type: Text
 identifiers:
